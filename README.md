@@ -4,6 +4,6 @@
 </h2>
 <p><em>Junior Fullstack Developer</em> from Indonesia</p>
   
-- ⚙️ I use: `.js`, `.dotnet`, `.java`, `.php`
-- 🌱 Currently learning about JS
+- ⚙️ I use: `.js`, `.cs`, `.java`, `.php`
+- 🌱 Currently learning about JS && ASP
 - 📫 Reach me: suryasaeful98@gmail.com
