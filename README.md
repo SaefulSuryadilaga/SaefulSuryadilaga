@@ -5,5 +5,5 @@
 <p><em>Full Stack Developer</em> from Indonesia</p>
   
 - ⚙️ I use: `.html`, `.css`, `.js`, `.py`, `.cs`, `.sql`
-- 🌱 Currently learning about CSS && JS && PHP Frameworks
+- 🌱 Currently learning about JS && Python && CSharp Ecosystems
 - 📫 Reach me: suryasaeful98@gmail.com
