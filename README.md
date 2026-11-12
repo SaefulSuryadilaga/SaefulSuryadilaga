@@ -4,6 +4,6 @@
 </h2>
 <p><em>Full Stack Developer</em> from Indonesia</p>
   
-- ⚙️ I use: `.css`, `.js`, `.php`, `.py`, `.sql`
+- ⚙️ I use: `.html`, `.css`, `.js`, `.py`, `.cs`, `.sql`
 - 🌱 Currently learning about CSS && JS && PHP Frameworks
 - 📫 Reach me: suryasaeful98@gmail.com
